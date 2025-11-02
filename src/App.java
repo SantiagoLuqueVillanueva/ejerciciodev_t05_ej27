@@ -16,5 +16,4 @@ public class App {
 
         System.out.printf("Desde 1 hasta %d hay %d múltiplos de 3 y suman %d", numeroIntroducido, contador, suma);
     }   
-
 }
